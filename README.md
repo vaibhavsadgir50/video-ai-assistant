@@ -4,8 +4,10 @@ Turn any video — a YouTube link or a file from your device — into a title, a
 action items, key decisions, open questions, and a chatbot that answers questions about
 the video using only what was actually said in it.
 
-**🌐 Multi Language support Assistant** Give it an English video or a Hindi/Hinglish one —
+**🌐 Multi Language support Assistant** Give it an English video or any other one —
 transcription, summary, and chat all work either way.
+
+**RAG for Questions related to video** Ask any question about the video, it can answer and explain you well with follow ups
 
 ---
 
@@ -15,8 +17,8 @@ transcription, summary, and chat all work either way.
 - **Auto-generated title & summary** of the whole video.
 - **Action items, key decisions & open questions** extracted automatically.
 - **Chat with your video** — ask follow-up questions and get answers grounded in the
-  transcript, not the model's imagination.
-- **Multi-language support** — English and Hindi/Hinglish audio are both handled out of
+  transcript, not the model's imagination. Thanks to RAG implementation.
+- **Multi-language support** — multi audio are both handled out of
   the box.
 - **Clean Streamlit UI** — a single-page app: landing → upload → processing → results,
   with a theatre-mode video player and a WhatsApp-style chat panel.
