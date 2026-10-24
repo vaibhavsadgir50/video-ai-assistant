@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets
+.env
+
+# runtime artifacts
+downloads/
+vector_db/
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.m4a
+
+.DS_Store
