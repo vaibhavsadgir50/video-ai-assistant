@@ -4,7 +4,7 @@ Turn any video — a YouTube link or a file from your device — into a title, a
 action items, key decisions, open questions, and a chatbot that answers questions about
 the video using only what was actually said in it.
 
-**🌐 Works in English and Hindi.** Give it an English video or a Hindi/Hinglish one —
+**🌐 Multi Language support Assistant** Give it an English video or a Hindi/Hinglish one —
 transcription, summary, and chat all work either way.
 
 ---
